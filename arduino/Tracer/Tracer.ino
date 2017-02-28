@@ -1,4 +1,4 @@
-/*
+/* 
  * An interface to the Tracer solar regulator.
  * Communicating in a way similar to the MT-5 display
  */
@@ -98,4 +98,3 @@ void loop() {
 
 	delay(1000);
 }
-
